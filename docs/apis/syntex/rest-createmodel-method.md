@@ -6,11 +6,12 @@ manager: pamgreen
 ms.reviewer: ssquires
 audience: admin
 ms.topic: reference
-ms.prod: microsoft-365-enterprise
+ms.service: 
 search.appverid: 
 ms.collection: m365initiative-syntex
 ms.localizationpriority: high
 description: Use REST API to create a model and its associated content type.
+ms.service: 
 ---
 
 # Create model
