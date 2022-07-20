@@ -6,12 +6,13 @@ manager: pamgreen
 ms.reviewer: ssquires
 audience: admin
 ms.topic: reference
-ms.prod: microsoft-365-enterprise
+ms.service: 
 ms.date: 04/06/2022
 search.appverid: 
 ms.collection: m365initiative-syntex
 ms.localizationpriority: high
 description: Overview of the SharePoint Syntex document understanding model REST API.
+ms.service: 
 ---
 
 # SharePoint Syntex document understanding model REST API
