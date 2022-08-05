@@ -6,7 +6,6 @@ manager: pamgreen
 ms.reviewer: ssquires
 audience: admin
 ms.topic: article
-ms.prod: microsoft-365-enterprise
 search.appverid: 
 ms.collection: m365initiative-syntex
 ms.localizationpriority: high
